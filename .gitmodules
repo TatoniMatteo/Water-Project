@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/TatoniMatteo/WaterAPI.git
+[submodule "client"]
+	path = client
+	url = https://github.com/TatoniMatteo/WaterHealth.git
